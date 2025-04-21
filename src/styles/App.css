@@ -1,0 +1,13 @@
+/* src/styles/App.css */
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(to bottom right, #ffecd2, #fcb69f);
+  min-height: 100vh;
+}
+
+.App {
+  text-align: center;
+  padding: 40px 20px;
+  color: #1f2d3d;
+}
